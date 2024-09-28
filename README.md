@@ -1,5 +1,5 @@
 # WorkIn - Job Platform
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/baa829b6-13a5-44da-b025-5720eeca27b6)
 
 ## 🧑‍💻 Introduction
 WorkIn is a job portal designed to help job seekers and employers connect efficiently. The platform provides comprehensive information on job sectors, company details, job vacancies, and community support for both job seekers and recruiters. In line with **SDG Goal No. 8: Decent Work and Economic Growth**, WorkIn contributes to reducing unemployment and promoting better job matching between employers and job seekers, fostering sustainable and inclusive economic growth.
